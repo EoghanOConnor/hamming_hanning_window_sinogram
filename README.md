@@ -1,7 +1,7 @@
 # Sinogram
 
 
-Description:
+Description: 
 Using a hamming and a hanning window the Sinogram image into the original image.
 As shown 
 
