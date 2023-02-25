@@ -15,7 +15,11 @@ This source code converts a sinogram into the captured image.
 <br>          7)They are then rescaled to an 8 bit image and cropped accordingly.
 <br>          9)The colour channels are resconstructed back to 1 image.
 <br>          10)A hamming and hanning window is applied to the greyscale image.
-As shown 
+
+<br>
+<br>
+Input image
+<br>
 
 Sinogram:
 ![image](https://user-images.githubusercontent.com/45408401/113201000-eddafe80-9260-11eb-8f1d-da3bbb6cb88f.png) 
