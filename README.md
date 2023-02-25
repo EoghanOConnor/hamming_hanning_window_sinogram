@@ -2,7 +2,7 @@
 
 
 Description: 
-Using a hamming and a hanning window the Sinogram image into the original image.
+Using a hamming and a hanning window to convert the Sinogram image into the original image.
 This source code converts a sinogram into the captured image.
 <br>          1)The coloured sinogram is seperated into 3 channels Red,Green,Blue.
 <br>           A greyscale sinogram is also created.
