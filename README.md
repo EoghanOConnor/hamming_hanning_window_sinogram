@@ -21,7 +21,6 @@ This source code converts a sinogram into the captured image.
 Input image
 <br>
 
-Sinogram:
 ![image](https://user-images.githubusercontent.com/45408401/113201000-eddafe80-9260-11eb-8f1d-da3bbb6cb88f.png) 
 
 Original: 
