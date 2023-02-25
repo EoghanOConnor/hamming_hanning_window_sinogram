@@ -2,7 +2,7 @@
 
 
 Description:
-This converts a Sinogram image into the original image.
+Using a hamming and a hanning window the Sinogram image into the original image.
 As shown 
 
 Sinogram:
